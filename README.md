@@ -128,3 +128,5 @@ Customer Insights
        |
        v
 Marketing Recommendations
+## Live Demo
+[Open the Customer Segmentation App](https://automate-customer-segmetation.streamlit.app/)

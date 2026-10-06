@@ -1,7 +1,4 @@
-# ============================================================
 # AUTOMATED CUSTOMER ANALYTICS & SEGMENTATION SYSTEM
-# OPTIMIZED VERSION
-# ============================================================
 
 import pandas as pd
 import numpy as np
@@ -15,21 +12,14 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
-
-# ============================================================
 # PAGE CONFIGURATION
-# ============================================================
 
 st.set_page_config(
     page_title="Automated Customer Analytics System",
     layout="wide"
 )
 
-
-# ============================================================
 # PROFESSIONAL DASHBOARD STYLING
-# ============================================================
-
 st.markdown("""
 <style>
 
