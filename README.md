@@ -1,4 +1,4 @@
-# Customer_segmetation
+# Customer_segmentation
 This repository contains two implementations of a customer segmentation system.
 Project 1 — Python Customer Segmentation:
 A dataset-specific implementation focused on the core data science and machine learning workflow using Python libraries.
